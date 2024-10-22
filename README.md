@@ -1,6 +1,7 @@
 # Energy Demand Forecasting Web Application
 
-![College Logo](path/to/college-logo.png) <!-- Replace with the actual path to your college logo -->
+
+![logo](https://github.com/Aparna024/Projects/blob/main/amrita_logo-removebg-preview.png)<!-- Replace with the actual path to your college logo -->
 
 ## Team Information
 - **Team Number:** 16
